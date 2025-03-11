@@ -1,0 +1,12 @@
+# Ignore compiled executables
+dist/
+build/
+*.exe
+*.pkg
+
+# Ignore uploaded files
+uploads/
+
+# Ignore Python cache & virtual environment
+__pycache__/
+venv/
