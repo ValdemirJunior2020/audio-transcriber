@@ -1,10 +1,11 @@
-# Ignore compiled executables
+# Ignore large build files
 dist/
 build/
 *.exe
 *.pkg
+*.wav
 
-# Ignore uploaded files
+# Ignore uploaded audio files
 uploads/
 
 # Ignore Python cache & virtual environment
