@@ -5,9 +5,6 @@ build/
 *.pkg
 *.wav
 
-# Ignore uploaded audio files
-uploads/
-
 # Ignore Python cache & virtual environment
 __pycache__/
 venv/
